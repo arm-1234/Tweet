@@ -1,7 +1,7 @@
 # Tweet
 # Django Project
 
-This repository contains a comprehensive Django project that demonstrates the complete workflow of developing a web application using Django. The project covers the following key features:
+This repository contains a comprehensive Django project that demonstrates the  workflow of developing a web application using Django. The project covers the following key features:
 
 ## Features
 - **Model Design:** Building and managing Django models.
